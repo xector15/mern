@@ -1,11 +1,17 @@
 import React from 'react';
-import { BrowserRouter as Router, Route } from 'react-router-dom-dom';
 
 function App() {
     return (
-        <Router>
-            
-        </Router>
+        <>
+            <div className="Row">
+                <div className="col-md4 offset-md-4 p-4">
+                    <form>
+                        
+                    </form>
+                    <h1>hola</h1>
+                </div>
+            </div>
+        </>
     )
 }
 
